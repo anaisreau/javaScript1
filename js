@@ -1,10 +1,10 @@
 /* hello-wilder.js */
 
 // Define some variables
-const nomFilm = 'Shuter Island';
-const anneeSortie = '2010';
-const realisateur = "Martin Scorsese"
-const message = 'Ton Film préféré ' + nomFilm +", " + "réalisé par " + realisateur + " est sorti en " + anneeSortie;
+const movie = 'Shuter Island';
+const releaseYear = 2010;
+const director = "Martin Scorsese"
+const message = 'your favorite movie ' + nomFilm +", " + " directed by " + realisateur + " was released in " + anneeSortie;
 
 // Display a popup
 alert(message);
